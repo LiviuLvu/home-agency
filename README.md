@@ -8,7 +8,7 @@ stylus css, normalize css
 flexbox css rules 
 jquery  
 
-Live page preview: http://liviulvu.github.io/test-agency/  
+Live page preview: http://liviulvu.github.io/home-agency/  
 
 Design By: Gusat Silviu  
 Coded by: Liviu Iancu  
